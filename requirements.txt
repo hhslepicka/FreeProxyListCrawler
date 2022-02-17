@@ -1,0 +1,2 @@
+botcity-framework-base
+botcity-crawler-plugin
